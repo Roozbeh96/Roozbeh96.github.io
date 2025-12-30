@@ -1,19 +1,51 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Data Science Intern
+- company: Solventum (3M), Saint Paul, MN
+  position: Data Science Intern
+  duration:  May, 2025 &mdash; Aug, 2025
+  summary: #If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+   <ul class="resume-item-list">
+   <li>Material Reinvent ($3B project)&colon; Built an interactive Dash app to search for connectivity of company materials, visualize the material graph (Cytoscape); click nodes to display each material’s test methods, enabled instant (2s) hierarchy navigation, analysis, and comparison.</li>
+   <li>Optimized test strategy using machine learning (ML) clustering methods to segment materials by similar test-value ranges; testing one representative per cluster, reducing the required number of tests and expenses by more than 80%.</li>
+   <li>Engineered an end-to-end API to automate the full workflow–from material search, graph generation, and statistical analysis (ETL)– containerized the API using Docker and deployed to AWS (ECR, ECS) for scalable and efficient execution.</li>
+   <li>Text Mining&colon; Designed a dictionary-based schema to standardize unstructured Excel file formats, enabling machine readability (Copilot agent), and cut data parsing time from 10 min to seconds with higher accuracy.</li>
+   <li>Developed text-mining pipelines to extract and structure key information from unstructured clinical study datasets, delivering critical dataset to cross-functional teams to accelerate validation of reinvented materials and test devices.</li>
+   </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Graduate Research Scientist
+- company: University of Minnesota (SAFL), Minneapolis, MN 
+  position: Graduate Research Scientist
+  duration: Jan, 2022 &mdash; Present
+  summary: #Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
+   <ul class="resume-item-list">
+   <li>Analyzed large raw dataset and used statistical method to detect underlying patterns
+    and extracted key characteristics; provided clean and required dataset for downstream models
+    (EDA, Data Wrangling)[<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stochastic-modelling-of-the-instantaneous-velocity-profile-in-roughwall-turbulent-boundary-layers/492F3CD03C8C3E7ED306E9117B848B5E">Scholar1</a>,
+    <a href="https://journals.ametsoc.org/view/journals/bams/105/1/BAMS-D-23-0066.1.xml">Scholar2</a>].</li>
+   <li>Designed and implemented a computationally efficient stochastic–ML hybrid model
+    to generate high-fidelity synthetic data, reproducing more than 80% of the first and 
+    second-order statistical moments (Monte-Carlo simulation)[<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stochastic-modal-velocity-field-in-roughwall-turbulence/800D97E60609F4FE4D92847CCDB1C7A0">Scholar</a>].</li>
+   <li>Developed a computationally efficient stochastic framework for generating high-fidelity 2D synthetic fields, eliminating costly physical simulations and accurately reproducing the energy spectra and statistical behavior of complex systems 
+    [<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stochastic-modelling-of-the-instantaneous-velocity-profile-in-roughwall-turbulent-boundary-layers/492F3CD03C8C3E7ED306E9117B848B5E">Scholar</a>].</li>
+   <li>Developed a heuristic Bayesian-stochastic framework leveraging Mixture Density Networks (Deep Learning) to synthesize time-series dataset, reproducing high-resolution spectral energy distributions observed in experimental datasets 
+    [<a href="https://github.com/Roozbeh96/Bayesian-Stochastic-time-series-generator">Git</a>].</li>
+   <li>Collaborated with a multidisciplinary DOE-funded team to design a sediment-bypass system for hydropower dams; led slurry-flow experiments, cleaned noisy sensor data, and developed data-driven, physics-based models to inform pump design and improve sediment transport efficiency 
+    [<a href="https://www.osti.gov/biblio/2584405">OSTI.GOV</a>].</li>
+   <li>Agentic-AI&colon; Built an Agentic AI system using LangGraph that answers natural-language questions by routing them to SQL database queries or Retrieval-Augmented Generation (RAG) over embedded documents, enabling accurate SQL queries and reliable answers from unstructured PDFs. 
+    [<a href="https://github.com/Roozbeh96/Agentic-AI">Git</a>].</li>
+   <li>Online Retail&colon; Analyzed the Online Retail dataset by computing Recency, Frequency, and Monetary (RFM) metrics for each customer, performing EDA and visualizations, and segmenting customers into actionable groups (Champion, Loyal, Lost, etc.). Presented segment-level insights in Tableau to support data-driven marketing initiatives, including Customer Lifetime Value (CLV) modeling, churn analysis, recommendation systems, promotion design, and retention strategies 
+    [<a href="https://github.com/Roozbeh96/online-retail">Git</a>].</li>
+   <li>Designed, conducted, and evaluated an A/B test for a sales-training program by calculating sample size through power and MDE analysis, estimating test duration, and performing confidence-interval evaluation; enabling the quantification of KPI lift and determining whether the training program delivered a statistically significant and cost-effective improvement 
+    [<a href="https://github.com/Roozbeh96/online-retail">Git</a>].</li>
+   <li>Advanced Machine Learning&colon; Developed a reinforcement learning–based controller to dynamically switch optimization strategies while training an LSTM model, demonstrating faster convergence and robust training performance on benchmark NLP datasets 
+    [<a href="https://github.com/Roozbeh96/CSCI-5525-Advanced-ML">Git</a>].</li>
+   <li>Computer Vision&colon; Built a 3D environment reconstruction pipeline along with semantic information (U-net) to generate environment maps, supporting applications in navigation, simulation, and AR/VR systems 
+    [<a href="https://github.com/Roozbeh96/CSCI-5561-Computer-Vision">Git</a>].</li>
+   <li>Recommendation Systems&colon; Implemented and compared multiple recommendation system models, with the item-based approach achieving the best performance (RMSE = 1.0) on the MovieLens-100K dataset 
+    [<a href="https://github.com/Roozbeh96/CSCI-8314-Sparse-Matrix-Computation">Git</a>].</li>
+   <li>Database Management Systems (DBMS)&colon; Implemented and benchmarked the performance of B-tree and Hash indices for range and exact-match queries, highlighting key considerations for system design and product performance optimization.</li>
+   </ul>
+
+

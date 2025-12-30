@@ -1,12 +1,9 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Analytical skills
+- skill: Analytical skills
+  description: Generative Stochastic Models, Statistical Analysis, Data Mining, Machine Learning, Deep Learning, Fourier Analysis, Database Management Systems(DBMS), A/B Testing, Finite Element Method(FEM)
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Technical skills
+- skill: Technical skills
+  description: Python (scikit-learn, Pandas, PyTorch), SQL, LangChain, LLM, AWS, Docker, Git, CI/CD, MLOps, UI, Power BI
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
