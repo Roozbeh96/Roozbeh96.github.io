@@ -83,10 +83,13 @@
           <p class="resume-item-copy">{{ education.summary }}</p>
           <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
           <p class="resume-item-copy" itemprop="description">
+          {% if education.awards %}
+                <b>Awards: </b>
+          {% endif %}
             <ul class="resume-item-list">
-              {% for award in education.awards %}
-              <li>{{ award.award }}</li>
-              {% endfor %}
+                {% for award in education.awards %}
+                <li>{{ award.award }}</li>
+                {% endfor %}
             </ul>
 
 
@@ -196,10 +199,23 @@
       <!-- end Interests -->
       {% endif %}
 
-      <section id="publications">
-        <h2>Publications</h2>
-        {% bibliography %}
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Publications/Conferences</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% bibliography %}
+          </ul>
+        </div>
+
       </section>
+      <!-- end Links -->
+      {% endif %}
 
       {% if site.resume_section_links %}
       <!-- begin Links -->

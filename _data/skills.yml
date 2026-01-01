@@ -1,9 +1,30 @@
 # Skills
-# Analytical skills
-- skill: Analytical skills
-  description: Generative Stochastic Models, Statistical Analysis, Data Mining, Machine Learning, Deep Learning, Fourier Analysis, Database Management Systems(DBMS), A/B Testing, Finite Element Method(FEM)
+# Data Cleaning, Analyzing & Modeling
+- skill: Data Cleaning, Analyzing & Modeling
+  description: EDA, Data Wrangling, Statistical Analysis, Bayesian Statistics, Data Mining, Hypothesis testing, A/B Testing, Fourier Analysis, Fast Fourier Transform (FFT), Monte-Carlo simulation, Stochastic Modeling, Numerical Simulation, Finite Element Modeling
 
-# Technical skills
-- skill: Technical skills
-  description: Python (scikit-learn, Pandas, PyTorch), SQL, LangChain, LLM, AWS, Docker, Git, CI/CD, MLOps, UI, Power BI
+# Data Engineering
+- skill: Data Engineering 
+  description: ETL, SQL, Database Management Systems (DBMS), Hash Indices, B-tree Indices
+
+# Programing
+- skill: Programing
+  description: Python, MATLAB
+
+# Machine Learning & Deep Learning
+- skill: Machine Learning & Deep Learning
+  description: Scikit-learn, PyTorch, Hugging Face
+
+# Generative AI
+- skill: Generative AI
+  description: Agentic AI, LangGraph, LangChain, RAG, MCP, NLP, Ollama, llama 3.1 Language Model
+
+# MLOps
+- skill: MLOps
+  description: AWS (S3, ECR, ECS), Docker, Git, CI/CD
+
+# Visualization & UI
+- skill: Visualization & UI
+  description: Tableau, Power BI, Dash App, Cytoscape 
+
 

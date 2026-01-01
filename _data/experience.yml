@@ -4,21 +4,27 @@
   position: Data Science Intern
   duration:  May, 2025 &mdash; Aug, 2025
   summary: #If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+   
+   <b><i>Machine Learning Model for $3B Material Reinvent Project</i></b>
    <ul class="resume-item-list">
-   <li align = 'justify'>Material Reinvent ($3B project)&colon; Built an interactive Dash app to search for connectivity of company materials, visualize the material graph (Cytoscape); click nodes to display each material’s test methods, enabled instant (2s) hierarchy navigation, analysis, and comparison.</li>
+   <li align = 'justify'>Built an interactive Dash app to search for connectivity of company materials, visualize the material graph (Cytoscape); click nodes to display each material’s test methods, enabled instant (2s) hierarchy navigation, analysis, and comparison.</li>
    <li align = 'justify'>Optimized test strategy using machine learning (ML) clustering methods to segment materials by similar test-value ranges; testing one representative per cluster, reducing the required number of tests and expenses by more than 80%.</li>
    <li align = 'justify'>Engineered an end-to-end API to automate the full workflow–from material search, graph generation, and statistical analysis (ETL)– containerized the API using Docker and deployed to AWS (ECR, ECS) for scalable and efficient execution.</li>
-   <li align = 'justify'>Text Mining&colon; Designed a dictionary-based schema to standardize unstructured Excel file formats, enabling machine readability (Copilot agent), and cut data parsing time from 10 min to seconds with higher accuracy.</li>
+   </ul>
+    <b><i>Text Mining &colon; How Can An AI-Agent Reduce the Parsing Time of Unstructured Datasets?</i></b>
+   <ul class="resume-item-list">
+   <li align = 'justify'>Designed a dictionary-based schema to standardize unstructured Excel file formats, enabling machine readability (Copilot agent), and cut data parsing time from 10 min to seconds with higher accuracy.</li>
    <li align = 'justify'>Developed text-mining pipelines to extract and structure key information from unstructured clinical study datasets, delivering critical dataset to cross-functional teams to accelerate validation of reinvented materials and test devices.</li>
    </ul>
 
 
 
-# Graduate Research Scientist
+# Graduate Research Scientist(UMN)
 - company: University of Minnesota (SAFL), Minneapolis, MN 
   position: Graduate Research Scientist
   duration: Jan, 2022 &mdash; Present
   summary: #Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
+   <b><i>Stochastic Modeling of Rough Wall Turbulent Boundary Layer (TBL) Flow (Ph.D. Thesis)</b></i>
    <ul class="resume-item-list">
    <li align = 'justify'>Analyzed large raw dataset and used statistical method to detect underlying patterns
     and extracted key characteristics; provided clean and required dataset for downstream models
@@ -31,8 +37,16 @@
     [<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stochastic-modelling-of-the-instantaneous-velocity-profile-in-roughwall-turbulent-boundary-layers/492F3CD03C8C3E7ED306E9117B848B5E">Scholar</a>].</li>
    <li align = 'justify'>Developed a heuristic Bayesian-stochastic framework leveraging Mixture Density Networks (Deep Learning) to synthesize time-series dataset, reproducing high-resolution spectral energy distributions observed in experimental datasets 
     [<a href="https://github.com/Roozbeh96/Bayesian-Stochastic-time-series-generator">Git</a>].</li>
+    </ul>
+
+   <b><i>Designing Sediment Bypass Module</b></i>
+   <ul class="resume-item-list">
    <li align = 'justify'>Collaborated with a multidisciplinary DOE-funded team to design a sediment-bypass system for hydropower dams; led slurry-flow experiments, cleaned noisy sensor data, and developed data-driven, physics-based models to inform pump design and improve sediment transport efficiency 
     [<a href="https://www.osti.gov/biblio/2584405">OSTI.GOV</a>].</li>
+   </ul>
+
+   <b><i>Data Science and Course Projects (M.Sc. in Computer Science)</b></i>
+   <ul class="resume-item-list">
    <li align = 'justify'>Agentic-AI&colon; Built an Agentic AI system using LangGraph that answers natural-language questions by routing them to SQL database queries or Retrieval-Augmented Generation (RAG) over embedded documents, enabling accurate SQL queries and reliable answers from unstructured PDFs. 
     [<a href="https://github.com/Roozbeh96/Agentic-AI">Git</a>].</li>
    <li align = 'justify'>Online Retail&colon; Analyzed the Online Retail dataset by computing Recency, Frequency, and Monetary (RFM) metrics for each customer, performing EDA and visualizations, and segmenting customers into actionable groups (Champion, Loyal, Lost, etc.). Presented segment-level insights in Tableau to support data-driven marketing initiatives, including Customer Lifetime Value (CLV) modeling, churn analysis, recommendation systems, promotion design, and retention strategies 
@@ -48,4 +62,19 @@
    <li align = 'justify'>Database Management Systems (DBMS)&colon; Implemented and benchmarked the performance of B-tree and Hash indices for range and exact-match queries, highlighting key considerations for system design and product performance optimization.</li>
    </ul>
 
+   <b><i>Instructor</b></i>
+   <ul class="resume-item-list">
+   <li align = 'justify'>Taught the course Fluid Mechanics Laboratory three times. </li>
+   </ul>
+
+
+# Graduate Research Scientist(Sharif)
+- company: Sharif University of Technology
+  position: Graduate Research Assistant (M.Sc. Thesis)
+  duration: Sep, 2018 &mdash; Feb 2021
+  summary:
+   <ul class="resume-item-list">
+   <li align = 'justify'>Developed a numerical simulation of isothermal two-phase and density-driven CO2 flow in fractured porous media using the Extended Finite Element Method (X-FEM), informing decisions on CO2 sequestration safety by predicting time-resolved plume evolution, leakage risk, and sensitivity to fracture inclination and porous media temperature
+   [<a href="https://link.springer.com/article/10.1007/s11242-022-01845-w">Scholar</a>].</li>
+   </ul>
 
