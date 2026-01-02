@@ -1,7 +1,12 @@
 # Skills
 # Data Cleaning, Analyzing & Modeling
 - skill: Data Cleaning, Analyzing & Modeling
-  description: EDA, Data Wrangling, Statistical Analysis, Bayesian Statistics, Data Mining, Hypothesis testing, A/B Testing, Fourier Analysis, Fast Fourier Transform (FFT), Monte-Carlo simulation, Stochastic Modeling, Numerical Simulation, Finite Element Modeling
+  description: EDA, Data Wrangling, Statistical Analysis, 
+   Bayesian Statistics, Data Mining, Hypothesis testing, 
+   A/B Testing, Fourier Analysis, Fast Fourier Transform (FFT),
+   Monte-Carlo simulation, Stochastic Modeling,
+   Recommendation Systems, Numerical Simulation,
+   Finite Element Modeling
 
 # Data Engineering
 - skill: Data Engineering 
