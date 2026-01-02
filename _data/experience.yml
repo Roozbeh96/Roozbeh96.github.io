@@ -45,14 +45,22 @@
     [<a href="https://www.osti.gov/biblio/2584405">OSTI.GOV</a>].</li>
    </ul>
 
-   <b><i>Data Science and Course Projects (M.Sc. in Computer Science)</b></i>
+   <b><i>Natural-Language Agentic AI for Structured & Unstructured Data</b></i>
    <ul class="resume-item-list">
-   <li align = 'justify'>Agentic-AI&colon; Built an Agentic AI system using LangGraph that answers natural-language questions by routing them to SQL database queries or Retrieval-Augmented Generation (RAG) over embedded documents, enabling accurate SQL queries and reliable answers from unstructured PDFs. 
+   <li align = 'justify'>Built an Agentic AI system using LangGraph that answers natural-language questions by routing them to SQL database queries or Retrieval-Augmented Generation (RAG) over embedded documents, enabling accurate SQL queries and reliable answers from unstructured PDFs. 
     [<a href="https://github.com/Roozbeh96/Agentic-AI">Git</a>].</li>
-   <li align = 'justify'>Online Retail&colon; Analyzed the Online Retail dataset by computing Recency, Frequency, and Monetary (RFM) metrics for each customer, performing EDA and visualizations, and segmenting customers into actionable groups (Champion, Loyal, Lost, etc.). Presented segment-level insights in Tableau to support data-driven marketing initiatives, including Customer Lifetime Value (CLV) modeling, churn analysis, recommendation systems, promotion design, and retention strategies 
+    </ul>
+
+   <b><i>Customer Analytics & Experimentation (RFM Segmentation & A/B Testing)</b></i>
+   <ul class="resume-item-list">
+   <li align = 'justify'>Analyzed the Online Retail dataset by computing Recency, Frequency, and Monetary (RFM) metrics for each customer, performing EDA and visualizations, and segmenting customers into actionable groups (Champion, Loyal, Lost, etc.). Presented segment-level insights in Tableau to support data-driven marketing initiatives, including Customer Lifetime Value (CLV) modeling, churn analysis, recommendation systems, promotion design, and retention strategies 
     [<a href="https://github.com/Roozbeh96/online-retail">Git</a>].</li>
    <li align = 'justify'>Designed, conducted, and evaluated an A/B test for a sales-training program by calculating sample size through power and MDE analysis, estimating test duration, and performing confidence-interval evaluation; enabling the quantification of KPI lift and determining whether the training program delivered a statistically significant and cost-effective improvement 
     [<a href="https://github.com/Roozbeh96/online-retail">Git</a>].</li>
+    </ul>
+
+   <b><i>Data Science and Course Projects (M.Sc. in Computer Science)</b></i>
+   <ul class="resume-item-list">
    <li align = 'justify'>Advanced Machine Learning&colon; Developed a reinforcement learning–based controller to dynamically switch optimization strategies while training an LSTM model, demonstrating faster convergence and robust training performance on benchmark NLP datasets 
     [<a href="https://github.com/Roozbeh96/CSCI-5525-Advanced-ML">Git</a>].</li>
    <li align = 'justify'>Computer Vision&colon; Built a 3D environment reconstruction pipeline along with semantic information (U-net) to generate environment maps, supporting applications in navigation, simulation, and AR/VR systems 
