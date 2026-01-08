@@ -5,12 +5,13 @@
    Bayesian Statistics, Data Mining, Hypothesis testing, 
    A/B Testing, Fourier Analysis, Fast Fourier Transform (FFT),
    Monte-Carlo simulation, Stochastic Modeling,
+   Clustering, Classification,
    Recommendation Systems, Numerical Simulation,
    Finite Element Modeling
 
 # Data Engineering
 - skill: Data Engineering 
-  description: ETL, SQL, Database Management Systems (DBMS), Hash Indices, B-tree Indices
+  description: ETL, SQL, Pandas, Database Management Systems (DBMS), Hash Indices, B-tree Indices
 
 # Programing
 - skill: Programing
